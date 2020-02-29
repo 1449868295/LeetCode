@@ -4,7 +4,7 @@
 	> Mail: 
 	> Created Time: 2020年02月26日 星期三 13时55分07秒
  ************************************************************************/
-Definition for singly-linked list.
+/*Definition for singly-linked list.
 *struct ListNode {
 *   int val;
 *   struct ListNode *next;
